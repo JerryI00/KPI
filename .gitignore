@@ -1,2 +1,21 @@
+# ignoring the following files
+
 .DS_Store
+
+# Latex
+*.log
+*.dvi
+*.aux
+*.ps
+*.pdf
+*.out
+*.zip
+*.gz
+*.bbl
+*.blg
+*.bk
+*.DS_Store
+*.synctex(busy)
+*.synctex.gz(busy)
+
 /fig_source
