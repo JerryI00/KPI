@@ -7,7 +7,7 @@
 *.dvi
 *.aux
 *.ps
-*.pdf
+#*.pdf
 *.out
 *.zip
 *.gz
