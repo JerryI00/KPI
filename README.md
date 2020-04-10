@@ -14,7 +14,7 @@
     <img src="https://github.com/JerryI00/KPI/blob/master/gif/PMOP1_M2_A2.gif" width="200"/><img src="https://github.com/JerryI00/KPI/blob/master/gif/PMOP1_M3_A2.gif" width="200"/>
 </center>
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300"><img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="100" height="300" src="http://www.fillmurray.com/460/300"><img width="100" height="300" src="http://www.fillmurray.com/460/300">
 </p>
 * Problems with more than one knee point, such as PMOP1 with A=4 in 2D and 3D:
 <center class="half">
