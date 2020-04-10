@@ -11,9 +11,11 @@
 ## Examples of the search dynamics of KPITU for identifying knee point(s).
 * Problems with only one knee point, such as PMOP1 with A=2 in 2D and 3D:
 <figure class="half">
-![image](https://github.com/JerryI00/KPI/blob/master/gif/PMOP1_M2_A2.gif)
-![image](https://github.com/JerryI00/KPI/blob/master/gif/PMOP1_M3_A2.gif)
+    <img src="https://github.com/JerryI00/KPI/blob/master/gif/PMOP1_M2_A2.gif">
+    <img src="https://github.com/JerryI00/KPI/blob/master/gif/PMOP1_M3_A2.gif">
 </figure>
 * Problems with more than one knee point, such as PMOP1 with A=4 in 2D and 3D:
-![image](https://github.com/JerryI00/KPI/blob/master/gif/PMOP1_M2_A4.gif)
-![image](https://github.com/JerryI00/KPI/blob/master/gif/PMOP1_M3_A4.gif)
+<figure class="half">
+    <img src="https://github.com/JerryI00/KPI/blob/master/gif/PMOP1_M2_A4.gif">
+    <img src="https://github.com/JerryI00/KPI/blob/master/gif/PMOP1_M3_A4.gif">
+</figure>
